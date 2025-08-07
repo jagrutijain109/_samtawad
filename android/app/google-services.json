@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "677844269622",
+    "firebase_url": "https://samtawad-afde2-default-rtdb.firebaseio.com",
+    "project_id": "samtawad-afde2",
+    "storage_bucket": "samtawad-afde2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677844269622:android:2907e32cf2b07319063697",
+        "android_client_info": {
+          "package_name": "com.samtawad.meditationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvip_pN2rQ4YdCAKgME3321YRUX6t7kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677844269622:android:1c8ceb967c549202063697",
+        "android_client_info": {
+          "package_name": "com.samtawadProject.meditationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvip_pN2rQ4YdCAKgME3321YRUX6t7kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
